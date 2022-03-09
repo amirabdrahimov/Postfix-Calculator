@@ -8,6 +8,6 @@ The program accepts a mathematical expression in postfix format as input
 
 
 The program outputs:
-a. binary values of the entered arguments
-b. the result of the operation in binary representation
-c. the result of the operation in decimal representation
+- binary values of the entered arguments
+- the result of the operation in binary representation
+- the result of the operation in decimal representation
